@@ -1,3 +1,5 @@
-title: Sandesh Poudel's Website
-description: My personal portfolio and blog
+title: Sandesh Poudel's Portfolio
+description: Welcome to my site
 theme: minima
+baseurl: ""
+url: "https://sandeshpoudel.github.io"
